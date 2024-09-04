@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c14ir3m2&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **c14ir3m2/c14ir3m2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--wakatime.com-->
+
